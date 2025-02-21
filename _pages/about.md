@@ -59,6 +59,7 @@ For site content, there is one markdown file for each type of content, which are
 Experience
 ======
 星海图（北京）人工智能科技有限公司             具身智能实习生	2024.04——2024.07
+
 技术支持：                                  视觉模型生成抓取位姿
 项目介绍：
     桌面上有各种形状和类型随机的垃圾，并放置有两个垃圾桶，分别用于收纳可回收和不可回收垃圾。仅通过语音交互，使机器人将桌面垃圾分类并放置相应垃圾桶中。
@@ -70,6 +71,7 @@ Experience
 技能标签：DL、ML、ROS1、Gazebo、Blender、Docker、Pytorch、C++
 
 科大讯飞（合肥）股份有限公司                   助理研究算法工程师	2024.09——2024.12
+
 技术支持：                                  加速机器人双臂运动生成
 项目介绍：
     对于Pick and Place的简单任务进行推理加速，实时生成平缓且无碰撞的运动轨迹。
