@@ -17,22 +17,30 @@ You can find my CV here: [Scrat's Curriculum Vitae](../assets/Curriculum_Vitae.p
 
 News
 ======
-🎉
-🎉
-🎉
-🎉
-2023.04	第二十二届RoboMaster2023机甲大师高校联盟赛(黑龙江站)	冠军
-2023.04	第二十二届RoboMaster2023机甲大师高校联盟赛(沈阳站)	亚军
-2023.08	第二十二届RoboMaster2023超级对抗赛（全球总决赛）	全国一等奖
+🎉2023.04	第二十二届RoboMaster2023机甲大师高校联盟赛(黑龙江站)	冠军
+
+🎉2023.04	第二十二届RoboMaster2023机甲大师高校联盟赛(沈阳站)	亚军
+
+🎉2023.08	第二十二届RoboMaster2023超级对抗赛（全球总决赛）	全国一等奖
+
 2022.08	第十七届全国大学生智能汽车竞赛（完全模型组）	全国一等奖
+
 2022.08	第二十一届RoboMaster2022超级对抗赛（全球总决赛）	全国二等奖
+
 2022.12	第十七届全国大学生智能汽车竞赛 (室外远程驾驶无人车) 	全国二等奖
+
 2021.12	第二十三届中国机器人及人工智能大赛（全地形小车）	全国三等奖
+
 2022.08	第十五届全国大学生节能减排社会实践与科技竞赛	全国三等奖
+
 2022.07	第十七届全国大学生智能汽车竞赛东北赛区（线下）	第一名
+
 2022.11	2022高教社杯全国大学生数学建模竞赛	省级二等奖
+
 2022.08	第三十八届美国国际大学生数学建模竞赛	H奖
+
 2023.05	国家级大学生创新创业训练项目《异形包裹自动分拣系统》	优秀项目
+
 
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
