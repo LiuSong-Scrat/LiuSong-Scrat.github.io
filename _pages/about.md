@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Liu Song|刘嵩"
+title: "Liu Song丨刘嵩"
 author_profile: true
 redirect_from: 
   - /about/
