@@ -9,7 +9,7 @@ redirect_from:
 
 I am a M.Sc student majoring in Pattern Recognition at [School of HFIPS](https://english.hf.cas.cn/), [University of Science and Technology](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
-I am very fortunate to be advised by [Prof. Kong](https://auto.ustc.edu.cn/2021/0510/c25976a484868/page.htm) of Biomimetic Perception and Control Lab from School of HFIPS, University of Science and Technology.
+I am very fortunate to be advised by [Prof. Kong](https://auto.ustc.edu.cn/2021/0510/c25976a484868/page.htm) of Biomimetic Perception and Control Laboratory from School of HFIPS, University of Science and Technology.
 
 You can find my CV here: [Scrat's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
