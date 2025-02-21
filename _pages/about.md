@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year undergraduate student from [School of HFIPS](https://english.hf.cas.cn/), [University of Science and Technology](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I am a M.Sc student majoring in Pattern Recognition at [School of HFIPS](https://english.hf.cas.cn/), [University of Science and Technology](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
 I am very fortunate to be advised by [Prof. Kong](https://auto.ustc.edu.cn/2021/0510/c25976a484868/page.htm) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 
