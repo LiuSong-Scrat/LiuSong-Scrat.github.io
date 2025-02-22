@@ -57,42 +57,37 @@ Site-wide configuration
 For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
 Experience
-======
-星海图（北京）人工智能科技有限公司             具身智能实习生	2024.04——2024.07
-
-技术支持：                                  视觉模型生成抓取位姿
-项目介绍：
-    桌面上有各种形状和类型随机的垃圾，并放置有两个垃圾桶，分别用于收纳可回收和不可回收垃圾。仅通过语音交互，使机器人将桌面垃圾分类并放置相应垃圾桶中。
-工作内容： 
-使用Rivz、FoxGlove、Gazebo、IsaacSim等在仿真环境中验证、优化算法。
-在机械臂与双臂机器人实机中，全流程部署视觉抓取模型，测试并优化运行效果。
-开发上游接口，接收GPT大模型High Level数据流，解码物体标签，分割图像，发布抓取位姿。
-开发基于Qt的交互软件，载入用户图像，对用户Prompt进行抓取检测，并显示在在软件界面中。
-技能标签：DL、ML、ROS1、Gazebo、Blender、Docker、Pytorch、C++
-
-科大讯飞（合肥）股份有限公司                   助理研究算法工程师	2024.09——2024.12
-
-技术支持：                                  加速机器人双臂运动生成
-项目介绍：
-    对于Pick and Place的简单任务进行推理加速，实时生成平缓且无碰撞的运动轨迹。
-工作内容： 
-多种方式加速机械臂运动生成，包括运动学求解，轨迹规划，MPC。
-ROS环境下集成并在仿真中部署，编程进行加速性能测试，验证算法可行性。
-部署至人形机器人双臂任务全流程，加速运动生成，实时性高，无明显延迟。
-技能标签：ROS2、Moveit2-MTC、IsaacSim、FK/IK、Planning、MPC
 
 <p>
-<img src="../images/NEFU.png" align="left" width=400 />
-<h2>Northeast Forest University</h2>
-<h3 style="background-color:rgba(222, 222, 210, 0.9)">
-2020.09-2024.06</h3>
- 
+<img src="../images/USTC.png" align="left" width=150 />
+<h2>University of Science and Technology</h2>
+<h3 style="color:rgba(222, 222, 210, 0.9)">
+2024.09-2027.06</h3>
 </p>
-![这是图片](../images/NEFU.png=200x300 "NEFU")
-![这是图片](../images/USTC.png "USTC")
-![这是图片](../images/IFLYTEK.png "IFLYTEK")
-![这是图片](../images/GALAXEA.png "GALAXEA")
-![这是图片](../images/pjlab.png "Shanghai AI lab")
+<p>
+<img src="../images/NEFU.png" align="left" width=150 />
+<h2>Northeast Forest University</h2>
+<h3 style="color:rgba(222, 222, 210, 0.9)">
+2020.09-2024.06</h3>
+</p>
+
+
+
+<p>
+<img src="../images/IFLYTEK.png" align="left" width=150 />
+<h2>IFLYTEK</h2>
+<h3 style="color:rgba(222, 222, 210, 0.9)">
+2024.09-2024.12</h3>
+</p>
+
+<p>
+<img src="../images/GALAXEA.png" align="left" width=150 />
+<h2>GALAXEA</h2>
+<h3 style="color:rgba(222, 222, 210, 0.9)">
+2020.4-2024.07</h3>
+</p>
+
+
 
 
 Selected Awards and Honors
