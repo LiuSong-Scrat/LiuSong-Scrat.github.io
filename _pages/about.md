@@ -67,7 +67,7 @@ Experience
     <!-- content -->
         <div class="experience-content">
             <h3><a href="http://en.ustc.edu.cn/" class="institute-title">University of Science and Technology</a></h3>
-            <p class="time">2022.09 - Present&nbsp;&nbsp;•&nbsp;&nbsp;<span>Postgraduate student</span>
+            <p class="time">2022.09 - Present&nbsp;&nbsp;•&nbsp;&nbsp;<span>Postgraduate student</span><br>
             Research Advisor: Prof. <a href="https://yanweifu.github.io">Yanwei Fu</a> &amp; Prof. <a href="https://istbi.fudan.edu.cn/lnen/info/1157/1632.htm">Shouyan Wang</a></p>
         </div>
 </div>
@@ -79,8 +79,8 @@ Experience
     <!-- content -->
         <div class="experience-content">
             <h3><a href="https://en.nefu.edu.cn/" class="institute-title">Northeast Forest University</a></h3>
-            <p class="time">2020.09 - 2024.06&nbsp;&nbsp;•&nbsp;&nbsp;<span>Undergraduate student</span></p>
-            GPA ranking: <span style="color:gray">2</span>/163
+            <p class="time">2020.09 - 2024.06&nbsp;&nbsp;•&nbsp;&nbsp;<span>Undergraduate student</span></p><br>
+            GPA ranking: <span style="color:gray">2</span>/163<br>
             Research Advisor: Prof. <a href="https://sites.google.com/view/xiaolongxu">Xiaolong Xu</a>
         </div>
 </div>
