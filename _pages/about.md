@@ -79,7 +79,7 @@ Experience
     <!-- content -->
         <div class="experience-content">
             <h3><a href="https://en.nefu.edu.cn/" class="institute-title">Northeast Forest University</a></h3>
-            <p class="time">2020.09 - 2024.06&nbsp;&nbsp;•&nbsp;&nbsp;<span>Undergraduate student</span></p><br>
+            <p class="time">2020.09 - 2024.06&nbsp;&nbsp;•&nbsp;&nbsp;<span>Undergraduate student</span></p>
             GPA ranking: <span style="color:gray">2</span>/163<br>
             Research Advisor: Prof. <a href="https://sites.google.com/view/xiaolongxu">Xiaolong Xu</a>
         </div>
