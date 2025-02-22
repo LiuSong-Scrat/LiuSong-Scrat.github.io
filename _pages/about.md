@@ -117,7 +117,8 @@ Experience
       <!-- content -->
           <div class="experience-content">
               <h3><a href="https://www.iflytek.com/en/" class="institute-title">iFLYTEK CO.LTD.</a></h3>
-              <p class="time">2024.09 - 2024.12&nbsp;&nbsp;•&nbsp;&nbsp;<span>R&D Intern</span><br></p>
+              <p class="time">2024.09 - 2024.12&nbsp;&nbsp;•&nbsp;&nbsp;<span>R&D Intern</span><br>
+              Mentor: Dr. Shuaishuai Ji</p>
           </div>
 </div>
 
