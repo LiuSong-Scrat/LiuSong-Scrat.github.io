@@ -68,7 +68,7 @@ Experience
         <div class="experience-content">
             <h3><a href="http://en.ustc.edu.cn/" class="institute-title">University of Science and Technology</a></h3>
             <p class="time">2022.09 - Present&nbsp;&nbsp;•&nbsp;&nbsp;<span>Postgraduate student</span><br>
-            Research Advisor: Prof. <a href="https://yanweifu.github.io">Yanwei Fu</a> &amp; Prof. <a href="https://istbi.fudan.edu.cn/lnen/info/1157/1632.htm">Shouyan Wang</a></p>
+            Research Advisor: Prof. <a href="https://auto.ustc.edu.cn/2021/0510/c25976a484868/page.htm">Deyi Kong</a> </p>
         </div>
 </div>
 
