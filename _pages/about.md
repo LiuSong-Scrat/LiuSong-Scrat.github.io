@@ -125,7 +125,10 @@ Experience
     color:gray;
 }
 
-
+.experience-content h3,
+.experience-content p {
+    margin: 0;
+}
 
 </style>
 
