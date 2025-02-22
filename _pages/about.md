@@ -59,13 +59,14 @@ For site content, there is one markdown file for each type of content, which are
 Experience
 
 <p>
-<img src="../images/USTC.png" align="left" width=150 />
+<img src="../images/USTC.png" align="left" width=75 />
 <h2>University of Science and Technology</h2>
 <h3 style="color:rgba(222, 222, 210, 0.9)">
 2024.09-2027.06</h3>
 </p>
+
 <p>
-<img src="../images/NEFU.png" align="left" width=150 />
+<img src="../images/NEFU.png" align="left" width=75 />
 <h2>Northeast Forest University</h2>
 <h3 style="color:rgba(222, 222, 210, 0.9)">
 2020.09-2024.06</h3>
@@ -74,7 +75,7 @@ Experience
 
 
 <p>
-<img src="../images/IFLYTEK.png" align="left" width=150 />
+<img src="../images/IFLYTEK.png" align="left" width=200 />
 <h2>IFLYTEK</h2>
 <h3 style="color:rgba(222, 222, 210, 0.9)">
 2024.09-2024.12</h3>
