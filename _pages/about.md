@@ -85,7 +85,17 @@ Experience
         </div>
 </div>
 
-
+ <div class="section experience-item">
+      <!-- badge -->
+          <img src="images/pjlab.png" alt="Shanghai AI Laboratory" class="institute-logo">
+  
+      <!-- content -->
+          <div class="experience-content">
+              <h3><a href="https://www.shlab.org.cn/" class="institute-title">Shanghai AI Laboratory</a></h3>
+              <p class="time">2025.02 - Present&nbsp;&nbsp;•&nbsp;&nbsp;<span>Research Intern</span></p>
+              <p>Mentor: Dr. <a href="https://yding25.com/">Yan Ding</a></p>
+          </div>
+</div>
 
 
 <style>
@@ -113,7 +123,7 @@ Experience
 
 
 
-<p>
+<!-- <p>
 <img src="../images/USTC.png" align="left" width=100 />
 <h2>University of Science and Technology(USTC)</h2>
 <h3 style="color:rgba(222, 222, 210, 0.9)">
@@ -127,8 +137,6 @@ Experience
 2020.09-2024.06</h3>
 </p>
 
-
-
 <p>
 <img src="../images/IFLYTEK.png" align="left" width=170 />
 <h2>IFLYTEK</h2>
@@ -141,7 +149,7 @@ Experience
 <h2>GALAXEA</h2>
 <h3 style="color:rgba(222, 222, 210, 0.9)">
 2020.4-2024.07</h3>
-</p>
+</p> -->
 
 
 
