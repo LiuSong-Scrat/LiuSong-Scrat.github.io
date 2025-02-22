@@ -94,7 +94,7 @@ Experience
         <div class="experience-content">
             <h3><a href="https://en.nefu.edu.cn/" class="institute-title">Northeast Forest University</a></h3>
             <p class="time">2020.09 - 2024.06&nbsp;&nbsp;•&nbsp;&nbsp;<span>Undergraduate student</span><br>
-            GPA ranking: <span style="color:gray">2</span>/163<br></p>
+            GPA ranking: <span style="color:gray">2</span>/163&nbsp;&nbsp;CST</p>
         </div>
 </div>
 
