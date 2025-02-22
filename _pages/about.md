@@ -130,6 +130,10 @@ Experience
     margin: 0;
 }
 
+.experience-content h3{
+    font-weight:normal;
+}
+
 </style>
 
 
