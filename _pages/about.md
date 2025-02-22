@@ -114,7 +114,7 @@ Experience
     color: #003373;
     font-size: 22px;
     line-height: 26px;
-    font-weight：normal;
+    text-decoration: none; 
 }
 
 .institute-title:hover {
