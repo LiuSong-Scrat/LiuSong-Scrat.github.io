@@ -81,7 +81,9 @@ ROS环境下集成并在仿真中部署，编程进行加速性能测试，验�
 部署至人形机器人双臂任务全流程，加速运动生成，实时性高，无明显延迟。
 技能标签：ROS2、Moveit2-MTC、IsaacSim、FK/IK、Planning、MPC
 
-
+<p>
+<img src=../images/NEFU.png align="left" width=400 />左边的文字。左边的文字。左边的文字。左边的文字。左边的文字。左边的文字左边的文字。左边的文字。左边的文字。左边的文字。左边的文字。左边的文字。左边的文字左边的文字。左边的文字。左边的文字。
+</p>
 ![这是图片](../images/NEFU.png=200x300 "NEFU")
 ![这是图片](../images/USTC.png "USTC")
 ![这是图片](../images/IFLYTEK.png "IFLYTEK")
