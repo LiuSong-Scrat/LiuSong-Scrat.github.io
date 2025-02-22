@@ -116,12 +116,31 @@ Experience
     color: #003373;
     font-size: 22px;
     line-height: 26px;
-    text-decoration: none; 
 }
 
 .institute-title:hover {
     border-bottom: 1px solid #003373;
 }
+
+.experience-content {
+    flex: 1;
+}
+
+.experience-content h3,
+.experience-content p {
+    margin: 0;
+}
+
+.experience-content p.time {
+    font-style: italic;
+}
+
+.experience-content p span {
+    font-style: normal;
+    color:gray;
+}
+
+
 </style>
 
 
