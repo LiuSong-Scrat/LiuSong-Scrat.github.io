@@ -82,7 +82,11 @@ ROS环境下集成并在仿真中部署，编程进行加速性能测试，验�
 技能标签：ROS2、Moveit2-MTC、IsaacSim、FK/IK、Planning、MPC
 
 <p>
-<img src="../images/NEFU.png" align="left" width=400 />左边的文字。左边的文字。左边的文字。左边的文字。左边的文字。左边的文字左边的文字。左边的文字。左边的文字。左边的文字。左边的文字。左边的文字。左边的文字左边的文字。左边的文字。左边的文字。
+<img src="../images/NEFU.png" align="left" width=400 />
+<h2>Northeast Forest University</h2>
+<h3 style="background-color:rgba(222, 222, 210, 0.9)">
+2020.09-2024.06</h3>
+ 
 </p>
 ![这是图片](../images/NEFU.png=200x300 "NEFU")
 ![这是图片](../images/USTC.png "USTC")
