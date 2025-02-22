@@ -82,7 +82,7 @@ ROS环境下集成并在仿真中部署，编程进行加速性能测试，验�
 技能标签：ROS2、Moveit2-MTC、IsaacSim、FK/IK、Planning、MPC
 
 
-![这是图片](../images/NEFU.png =200x300 "NEFU")
+![这是图片](../images/NEFU.png=200x300 "NEFU")
 ![这是图片](../images/USTC.png "USTC")
 ![这是图片](../images/IFLYTEK.png "IFLYTEK")
 ![这是图片](../images/GALAXEA.png "GALAXEA")
