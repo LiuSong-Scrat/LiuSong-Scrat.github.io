@@ -57,6 +57,61 @@ Site-wide configuration
 For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
 Experience
+======
+
+
+<div class="section experience-item">
+    <!-- badge -->
+        <img src="../images/USTC.png" alt="USTC" class="institute-logo">
+
+    <!-- content -->
+        <div class="experience-content">
+            <h3><a href="http://en.ustc.edu.cn/" class="institute-title">University of Science and Technology</a></h3>
+            <p class="time">2022.09 - Present&nbsp;&nbsp;•&nbsp;&nbsp;<span>Postgraduate student</span></p>
+            <p>Research Advisor: Prof. <a href="https://yanweifu.github.io">Yanwei Fu</a> &amp; Prof. <a href="https://istbi.fudan.edu.cn/lnen/info/1157/1632.htm">Shouyan Wang</a></p>
+        </div>
+</div>
+
+<div class="section experience-item">
+    <!-- badge -->
+        <img src="../images/NEFU.png" alt="NEFU" class="institute-logo">
+
+    <!-- content -->
+        <div class="experience-content">
+            <h3><a href="https://en.nefu.edu.cn/" class="institute-title">Northeast Forest University  of  (NUIST)</a></h3>
+            <p class="time">2018.09 - 2022.06&nbsp;&nbsp;•&nbsp;&nbsp;<span>Undergraduate student</span></p>
+            <p>GPA ranking: <span style="color:gray">2</span>/163</p>
+            <p>Research Advisor: Prof. <a href="https://sites.google.com/view/xiaolongxu">Xiaolong Xu</a></p>
+        </div>
+</div>
+
+
+
+
+<style>
+.experience-item {
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.institute-logo {
+    max-width: 120px;
+    margin-right: 30px;
+}
+.institute-title {
+    color: #003373;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.institute-title:hover {
+    border-bottom: 1px solid #003373;
+}
+</style>
+
+
+
 
 <p>
 <img src="../images/USTC.png" align="left" width=100 />
