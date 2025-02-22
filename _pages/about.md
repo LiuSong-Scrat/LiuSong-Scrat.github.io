@@ -73,18 +73,6 @@ Experience
 </div>
 
 <div class="section experience-item">
-    <!-- badge -->
-        <img src="../images/NEFU.png" alt="NEFU" class="institute-logo">
-
-    <!-- content -->
-        <div class="experience-content">
-            <h3><a href="https://en.nefu.edu.cn/" class="institute-title">Northeast Forest University</a></h3>
-            <p class="time">2020.09 - 2024.06&nbsp;&nbsp;•&nbsp;&nbsp;<span>Undergraduate student</span><br>
-            GPA ranking: <span style="color:gray">2</span>/163<br></p>
-        </div>
-</div>
-
- <div class="section experience-item">
       <!-- badge -->
           <img src="images/pjlab.png" alt="Shanghai AI Laboratory" class="institute-logo">
   
@@ -96,8 +84,19 @@ Experience
           </div>
 </div>
 
-
  <div class="section experience-item">
+      <!-- badge -->
+          <img src="images/IFLYTEK.png" alt="iFLYTEK CO.LTD." class="institute-logo">
+  
+      <!-- content -->
+          <div class="experience-content">
+              <h3><a href="https://www.iflytek.com/en/" class="institute-title">iFLYTEK CO.LTD.</a></h3>
+              <p class="time">2024.09 - 2024.12&nbsp;&nbsp;•&nbsp;&nbsp;<span>R&D Intern</span><br>
+              Mentor: Shuaishuai Ji</p>
+          </div>
+</div>
+
+<div class="section experience-item">
       <!-- badge -->
           <img src="images/GALAXEA.png" alt="GALAXEA AI" class="institute-logo">
   
@@ -109,20 +108,17 @@ Experience
           </div>
 </div>
 
+<div class="section experience-item">
+    <!-- badge -->
+        <img src="../images/NEFU.png" alt="NEFU" class="institute-logo">
 
- <div class="section experience-item">
-      <!-- badge -->
-          <img src="images/IFLYTEK.png" alt="iFLYTEK CO.LTD." class="institute-logo">
-  
-      <!-- content -->
-          <div class="experience-content">
-              <h3><a href="https://www.iflytek.com/en/" class="institute-title">iFLYTEK CO.LTD.</a></h3>
-              <p class="time">2024.09 - 2024.12&nbsp;&nbsp;•&nbsp;&nbsp;<span>R&D Intern</span><br>
-              Mentor: Dr. Shuaishuai Ji</p>
-          </div>
+    <!-- content -->
+        <div class="experience-content">
+            <h3><a href="https://en.nefu.edu.cn/" class="institute-title">Northeast Forest University</a></h3>
+            <p class="time">2020.09 - 2024.06&nbsp;&nbsp;•&nbsp;&nbsp;<span>Undergraduate student</span><br>
+            GPA ranking: <span style="color:gray">2</span>/163<br></p>
+        </div>
 </div>
-
-
 
 <style>
 .experience-item {
