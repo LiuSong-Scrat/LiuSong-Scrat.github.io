@@ -93,7 +93,7 @@ Experience
           <div class="experience-content">
               <h3><a href="https://www.shlab.org.cn/" class="institute-title">Shanghai AI Laboratory</a></h3>
               <p class="time">2025.02 - Present&nbsp;&nbsp;•&nbsp;&nbsp;<span>Research Intern</span></p>
-              <p>Mentor: Dr. <a href="https://yding25.com/">Yan Ding</a></p>
+              Mentor: Dr. <a href="https://yding25.com/">Yan Ding</a>
           </div>
 </div>
 
@@ -111,7 +111,7 @@ Experience
 }
 .institute-title {
     color: #003373;
-    font-size: 16px;
+    font-size: 22px;
     line-height: 26px;
 }
 
