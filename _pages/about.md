@@ -128,12 +128,14 @@ Experience
 .experience-content h3,
 .experience-content p {
     margin: 0;
-}
-
-.experience-content h3{
     font-weight:normal;
 }
 
+.experience-content h3{
+}
+.experience-content a{
+text-decoration: none;
+}
 </style>
 
 
