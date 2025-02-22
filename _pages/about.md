@@ -105,7 +105,6 @@ Experience
     display: flex;
     align-items: center;
     margin-bottom: 0px;
-    height: 130px;
     
 }
 .institute-logo {
@@ -121,32 +120,11 @@ Experience
 .institute-title:hover {
     border-bottom: 1px solid #003373;
 }
-
-.experience-content {
-    flex: 1;
-}
-
-.experience-content h3,
-.experience-content p {
-    margin: 0;
-}
-
-.experience-content p.time {
-    font-style: italic;
-}
-
-.experience-content p span {
-    font-style: normal;
-    color:gray;
-}
-
-
 </style>
 
 
 
 
-<br>
 Selected Awards and Honors
 ======
 
