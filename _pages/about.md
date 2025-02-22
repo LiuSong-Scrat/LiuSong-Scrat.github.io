@@ -105,6 +105,8 @@ Experience
     display: flex;
     align-items: center;
     margin-bottom: 0px;
+    height: 130px;
+    
 }
 .institute-logo {
     max-width: 120px;
@@ -122,36 +124,6 @@ Experience
 }
 </style>
 
-
-
-
-<!-- <p>
-<img src="../images/USTC.png" align="left" width=100 />
-<h2>University of Science and Technology(USTC)</h2>
-<h3 style="color:rgba(222, 222, 210, 0.9)">
-2024.09-2027.06</h3>
-</p>
-
-<p>
-<img src="../images/NEFU.png" align="left" width=100 />
-<h2>Northeast Forest University(NEFU)</h2>
-<h4 style="color:rgba(222, 222, 210, 0.9)">
-2020.09-2024.06</h3>
-</p>
-
-<p>
-<img src="../images/IFLYTEK.png" align="left" width=170 />
-<h2>IFLYTEK</h2>
-<h3 style="color:rgba(222, 222, 210, 0.9)">
-2024.09-2024.12</h3>
-</p>
-
-<p>
-<img src="../images/GALAXEA.png" align="left" width=150 />
-<h2>GALAXEA</h2>
-<h3 style="color:rgba(222, 222, 210, 0.9)">
-2020.4-2024.07</h3>
-</p> -->
 
 
 
