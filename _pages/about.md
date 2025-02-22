@@ -120,6 +120,11 @@ Experience
 .institute-title:hover {
     border-bottom: 1px solid #003373;
 }
+
+.experience-content p span {
+    font-style: normal;
+    color:gray;
+}
 </style>
 
 
