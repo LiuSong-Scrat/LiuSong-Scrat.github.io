@@ -83,10 +83,10 @@ ROS环境下集成并在仿真中部署，编程进行加速性能测试，验�
 
 
 ![这是图片](../images/NEFU.png =200x300 "NEFU")
-<!-- ![这是图片](../images/NEFU.png "USTC") -->
-<!-- ![这是图片](../images/NEFU.png "IFLYTEK") -->
-<!-- ![这是图片](../images/NEFU.png "GALAXEA AI") -->
-![这是图片](../images/NEFU.png "NEFU")
+![这是图片](../images/USTC.png "USTC")
+![这是图片](../images/IFLYTEK.png "IFLYTEK")
+![这是图片](../images/GALAXEA.png "GALAXEA")
+![这是图片](../images/pjlab.png "Shanghai AI lab")
 
 
 Selected Awards and Honors
