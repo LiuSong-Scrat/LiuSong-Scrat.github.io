@@ -38,7 +38,6 @@ For site content, there is one markdown file for each type of content, which are
 Experience
 ======
 
-
 <div class="section experience-item">
     <!-- badge -->
         <img src="../images/USTC.png" alt="USTC" class="institute-logo">
