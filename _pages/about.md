@@ -67,8 +67,8 @@ Experience
     <!-- content -->
         <div class="experience-content">
             <h3><a href="http://en.ustc.edu.cn/" class="institute-title">University of Science and Technology</a></h3>
-            <p class="time">2022.09 - Present&nbsp;&nbsp;•&nbsp;&nbsp;<span>Postgraduate student</span></p>
-            <p>Research Advisor: Prof. <a href="https://yanweifu.github.io">Yanwei Fu</a> &amp; Prof. <a href="https://istbi.fudan.edu.cn/lnen/info/1157/1632.htm">Shouyan Wang</a></p>
+            <p class="time">2022.09 - Present&nbsp;&nbsp;•&nbsp;&nbsp;<span>Postgraduate student</span>
+            Research Advisor: Prof. <a href="https://yanweifu.github.io">Yanwei Fu</a> &amp; Prof. <a href="https://istbi.fudan.edu.cn/lnen/info/1157/1632.htm">Shouyan Wang</a></p>
         </div>
 </div>
 
