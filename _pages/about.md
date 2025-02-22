@@ -103,7 +103,7 @@ Experience
     margin-left: 0px;
     display: flex;
     align-items: center;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
 }
 .institute-logo {
     max-width: 120px;
