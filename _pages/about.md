@@ -100,7 +100,7 @@ Experience
 
 <style>
 .experience-item {
-    margin-left: 30px;
+    margin-left: 0px;
     display: flex;
     align-items: center;
     margin-bottom: 20px;
