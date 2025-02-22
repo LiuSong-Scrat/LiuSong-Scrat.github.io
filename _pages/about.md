@@ -98,6 +98,32 @@ Experience
 </div>
 
 
+ <div class="section experience-item">
+      <!-- badge -->
+          <img src="images/GALAXEA.png" alt="GALAXEA AI" class="institute-logo">
+  
+      <!-- content -->
+          <div class="experience-content">
+              <h3><a href="https://galaxea.ai/" class="institute-title">GALAXEA AI</a></h3>
+              <p class="time">2024.04 - 2024.07&nbsp;&nbsp;•&nbsp;&nbsp;<span>Research Intern</span><br>
+              Mentor: Dr. <a href="http://hxu.rocks">Huazhe Xu</a></p>
+          </div>
+</div>
+
+
+ <div class="section experience-item">
+      <!-- badge -->
+          <img src="images/IFLYTEK.png" alt="iFLYTEK CO.LTD." class="institute-logo">
+  
+      <!-- content -->
+          <div class="experience-content">
+              <h3><a href="https://www.iflytek.com/en/" class="institute-title">iFLYTEK CO.LTD.</a></h3>
+              <p class="time">2024.09 - 2024.12&nbsp;&nbsp;•&nbsp;&nbsp;<span>Research Intern</span><br></p>
+          </div>
+</div>
+
+
+
 <style>
 .experience-item {
     margin-left: 0px;
