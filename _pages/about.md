@@ -11,7 +11,7 @@ I am a M.Sc student majoring in Pattern Recognition at [School of HFIPS](https:/
 
 I am very fortunate to be advised by [Prof. Kong](https://auto.ustc.edu.cn/2021/0510/c25976a484868/page.htm) of Biomimetic Perception and Control Laboratory from School of HFIPS, University of Science and Technology.
 
-You can find my CV here: [Scrat's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+<!-- You can find my CV here: [Scrat's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). -->
 
 [Email](mailto:song_ustc@mail.ustc.edu.cn) / [Github](https://github.com/LiuSong-Scrat) / [CSDN](https://blog.csdn.net/qq_57994524?type=blog)
 
