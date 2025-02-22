@@ -125,6 +125,12 @@ Experience
     font-style: normal;
     color:gray;
 }
+
+.experience-content h3{
+    font-style: normal;
+    margin: 0;
+}
+
 </style>
 
 
