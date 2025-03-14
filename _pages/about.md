@@ -49,20 +49,18 @@ Experience
             Research Advisor: Prof. <a href="https://auto.ustc.edu.cn/2021/0510/c25976a484868/page.htm">Deyi Kong</a> </p>
         </div>
 </div>
- <!-- 
-<div class="section experience-item">
-      <!-- badge -->
+
+
+<!-- <div class="section experience-item">
           <img src="images/pjlab.png" alt="Shanghai AI Laboratory" class="institute-logo">
-  
-      <!-- content -->
           <div class="experience-content">
               <h3><a href="https://www.shlab.org.cn/" class="institute-title">Shanghai AI Laboratory</a></h3>
               <p class="time">2025.02 - Present&nbsp;&nbsp;•&nbsp;&nbsp;<span>Research Intern</span><br>
               Mentor: Dr. <a href="https://yding25.com/">Yan Ding</a></p>
           </div>
-</div>   -->
+</div>  -->
 
- <div class="section experience-item">
+<div class="section experience-item">
       <!-- badge -->
           <img src="images/IFLYTEK.png" alt="iFLYTEK CO.LTD." class="institute-logo">
   
